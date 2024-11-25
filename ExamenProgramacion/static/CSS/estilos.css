@@ -1,0 +1,17 @@
+button {
+    width: 200px;
+    height: 100px;
+    font-size: 18px;
+    border: none;
+    cursor: pointer;
+}
+
+#Ejercicio1 {
+    background-color: purple;
+    color: white;
+}
+
+#Ejercicio2 {
+    background-color: green;
+    color: white;
+}
